@@ -1,5 +1,8 @@
 # Deep-Learning-in-Real-World-Face-Recognition-
 
+# I am using Kaggle's GPU for my project, and here is the link to my project (If you can't access it, it's because I set it to private): 
+[Kaggle Notebook: Q4 Deep Learning in Real-World Face Recognition](https://www.kaggle.com/code/nguyenquyetgiangson/q4-deep-learning-in-real-world-face-recognition-a)
+
 # Introduction: Deep Learning in Real-World Face Recognition Application
 
 The project "Deep Learning in Real-World Face Recognition Application" aims to develop a practical face recognition system using the modern GhostFaceNet architecture (2023) and a dataset of 864 face images across 199 unique identities. The primary goal is to build a high-performance face recognition model capable of achieving over 98% accuracy, while also simulating user addition and login scenarios.
