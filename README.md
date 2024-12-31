@@ -43,6 +43,8 @@ The project "Deep Learning in Real-World Face Recognition Application" aims to d
 *   **Search Speedup:** Integrated FAISS with the IndexFlatIP (Inner Product for Cosine Similarity) index, significantly reducing vector comparison time and enhancing image processing efficiency for larger datasets.
 *   **Successful Simulation:** The system demonstrated high accuracy in adding new identities and recognizing them in login scenarios.
 
+  ![Evaluation of model performance](https://raw.githack.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/main/images/Evaluation%20of%20model%20performance.jpg)
+
 # 4. Model Evaluation and Improvements
 
 ## Advantages
