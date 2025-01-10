@@ -1,6 +1,6 @@
 # Deep-Learning-in-Real-World-Face-Recognition-
 
-# I am using Kaggle's GPU for my project, and here is the link to my project (If you can't access it, it's because I set it to private): 
+# I am using Kaggle's GPU for my project, and here is the link to my project (If you can't access it, it's because I set it to private mode): 
 [Kaggle Notebook: Q4 Deep Learning in Real-World Face Recognition](https://www.kaggle.com/code/nguyenquyetgiangson/q4-deep-learning-in-real-world-face-recognition-a)
 
 # Introduction: Deep Learning in Real-World Face Recognition Application
