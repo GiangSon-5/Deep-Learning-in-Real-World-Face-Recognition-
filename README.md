@@ -96,8 +96,4 @@ YOLOv5 was employed to detect faces in images before passing them to the GhostFa
 *   Enhanced image processing capability in real-world scenarios, particularly when multiple objects are in the frame.
 *   Optimized face detection and recognition speed by integrating YOLOv5 and FAISS.
 
-# Summary
-
-The project successfully developed a highly accurate face recognition system while flexibly simulating real-world scenarios like adding new identities and handling logins. Leveraging advanced tools such as TensorFlow, FAISS, GhostFaceNet, and YOLOv5 ensured high performance and reliability, paving the way for broad applications in security and identity management.
-
 
