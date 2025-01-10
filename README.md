@@ -7,6 +7,14 @@
 
 The project "Deep Learning in Real-World Face Recognition Application" aims to develop a practical face recognition system using the modern GhostFaceNet architecture (2023) and a dataset of 864 face images across 199 unique identities. The primary goal is to build a high-performance face recognition model capable of achieving over 98% accuracy, while also simulating user addition and login scenarios.
 
+# DEMO
+## Query image the user used for check-in:
+![Query image the user used for check-in](https://raw.githack.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/main/images/Query%20image%20the%20user%20used%20for%20check-in.jpg)
+
+## The system recognizes the query image matches the person with identity:
+![The system recognizes the query image matches the person](https://raw.githack.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/main/images/The%20system%20recognizes%20the%20query%20image%20matches%20the%20person.jpg)
+![The system recognizes the query image matches the person](https://raw.githack.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/main/images/The%20system%20recognizes%20the%20query%20image%20matches%20the%20person-2.jpg)
+
 # 1. Steps Taken in the Project
 
 ## Face Recognition Model Development
@@ -92,11 +100,4 @@ YOLOv5 was employed to detect faces in images before passing them to the GhostFa
 
 The project successfully developed a highly accurate face recognition system while flexibly simulating real-world scenarios like adding new identities and handling logins. Leveraging advanced tools such as TensorFlow, FAISS, GhostFaceNet, and YOLOv5 ensured high performance and reliability, paving the way for broad applications in security and identity management.
 
-# DEMO
-- Query image the user used for check-in:
-  ![Query image the user used for check-in](https://raw.githack.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/main/images/Query%20image%20the%20user%20used%20for%20check-in.jpg)
 
-- The system recognizes the query image matches the person with identity:
-  ![The system recognizes the query image matches the person](https://raw.githack.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/main/images/The%20system%20recognizes%20the%20query%20image%20matches%20the%20person.jpg)
-  ![The system recognizes the query image matches the person](https://raw.githack.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/main/images/The%20system%20recognizes%20the%20query%20image%20matches%20the%20person-2.jpg)
- 
