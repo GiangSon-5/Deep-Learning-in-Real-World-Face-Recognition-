@@ -12,8 +12,8 @@ The project "Deep Learning in Real-World Face Recognition Application" aims to d
 ![Query image the user used for check-in](https://raw.githack.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/main/images/Query%20image%20the%20user%20used%20for%20check-in.jpg)
 
 ## The system recognizes the query image matches the person with identity:
-![The system recognizes the query image matches the person](https://raw.githack.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/main/images/The%20system%20recognizes%20the%20query%20image%20matches%20the%20person.jpg)
-![The system recognizes the query image matches the person](https://raw.githack.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/main/images/The%20system%20recognizes%20the%20query%20image%20matches%20the%20person-2.jpg)
+![The system recognizes the query image matches the person](https://github.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/blob/main/images/The%20system%20recognizes%20the%20query%20image%20matches%20the%20person.jpg)
+![The system recognizes the query image matches the person](https://github.com/GiangSon-5/Deep-Learning-in-Real-World-Face-Recognition-/blob/main/images/The%20system%20recognizes%20the%20query%20image%20matches%20the%20person-2.jpg)
 
 # 1. Steps Taken in the Project
 
